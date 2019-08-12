@@ -1,8 +1,9 @@
-// EmailServer.cpp
-// Ruben Navarro
-// 07/28/2017
-// Version: 1.0.8
+/**********************/
+// Date: July 7, 2017
+// Name: Ruben Navarro
 // Email Server
+// Version 1.0
+/**********************/
 
 #include <iostream>
 #include <string>
